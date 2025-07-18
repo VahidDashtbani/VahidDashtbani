@@ -21,7 +21,7 @@
 ## 📫 Contact
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vahid-dashtbani/)
-- 📧 vahid@example.com
+- 📧 vahidnet95@gmail.com
 - 💻 GitHub: (https://github.com/VahidDashtbani)
 
 ---
