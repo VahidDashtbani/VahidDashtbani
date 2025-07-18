@@ -20,9 +20,9 @@
 
 ## 📫 Contact
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vahid-dashtbani/)
+- 🌐 LinkedIn: https://www.linkedin.com/in/vahid-dashtbani
 - 📧 vahidnet95@gmail.com
-- 💻 GitHub: (https://github.com/VahidDashtbani)
+- 💻 GitHub: https://github.com/VahidDashtbani
 
 ---
 
